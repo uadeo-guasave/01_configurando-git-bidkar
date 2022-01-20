@@ -1,2 +1,3 @@
 <?php
-echo 'Hola Mundo';
+$nombre = 'Bidkar';
+echo 'Hola '.$nombre;
